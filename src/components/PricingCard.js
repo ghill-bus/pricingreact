@@ -17,6 +17,7 @@ const PricingCard = ({ title, price, storage, users, sendUp }) => {
       <button className="card-btn">READ MORE</button>
       </a>
       
+      
     </div>
   );
 };
